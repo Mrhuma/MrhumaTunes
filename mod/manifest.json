@@ -1,0 +1,10 @@
+{
+    "name": "MrhumaTunes",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/Mrhuma/MrhumaTunes",
+    "description": "Allows me and my friends to easily have the same boombox music library.",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+    "Steven-Custom_Boombox_Music-1.4.0"
+    ]
+}
