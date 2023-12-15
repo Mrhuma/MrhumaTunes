@@ -1,6 +1,6 @@
 {
     "name": "MrhumaTunes",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "website_url": "https://github.com/Mrhuma/MrhumaTunes",
     "description": "Allows me and my friends to easily have the same boombox music library.",
     "dependencies": [

@@ -1,7 +1,11 @@
-## V1.1
-Fixed formatting issues
+## V1.1.1
+- New mod icon
+- Minor README changes
 
-Added
+## V1.1
+- Fixed formatting issues
+
+Added Song
 - Whats_New_Scooby_Doo__-_Intro_1080p_16_9.mp3
 
 ## V1

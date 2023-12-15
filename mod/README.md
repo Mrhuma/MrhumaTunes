@@ -1,6 +1,5 @@
-# MrhumaTunes
-
-This mod makes it easy for me and my friends to have the same boombox library. Running this mod will replace your exising boombox library if you're using the Custom Boombox Music mod. Don't download if you want to keep your current boombox library!
+## WARNING
+Running this mod will replace your exising boombox music if you're using [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/). Don't download if you want to keep your current boombox music!
 
 ## Current Song List
 - Aaron_Smith_-_Dancin_KRONO_Remix.mp3
